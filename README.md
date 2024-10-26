@@ -3,5 +3,4 @@
 
 
 
-
-A new Flutter project.
+A Flutter Project Based on habit tracker using heat maps.
